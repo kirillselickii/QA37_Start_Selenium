@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class LoginTest {
     WebDriver wd;
-    
+
 @BeforeClass
 public void preCondition(){
     //open browser
